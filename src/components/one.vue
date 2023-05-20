@@ -1,15 +1,12 @@
 <template>
     <div>
-        <div>
-            <h1>fsef</h1>
-            <el-button>测试</el-button>
-        </div>
+        <div>one</div>
     </div>
 </template>
 
 <script>
 export default {
-    name: "HelloWorld",
+    name: "onesS",
     props: {
         msg: String,
     },
