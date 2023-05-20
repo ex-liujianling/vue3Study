@@ -48,6 +48,7 @@ export default {
                 console.info(res);
                 let result = res.data;
                 sessionStorage.setItem("token", result.token);
+                console.info("1");
             });
         },
     },
